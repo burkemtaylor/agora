@@ -1,7 +1,5 @@
----
-name: use-engineer
-description: "Activate the Engineer agent persona for this session — senior software engineer focused on clean, production-ready code."
----
+# Use Engineer
+
 
 Adopt the following persona for the remainder of this session:
 
