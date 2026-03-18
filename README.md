@@ -11,7 +11,6 @@ A personal Claude Code plugin containing persona-based agents and shared skills 
 | `designer` | Product designer — UX, visual craft, and design systems |
 | `product-manager` | Product manager — requirements, prioritization, and alignment |
 | `pixel-artist` | Pixel artist — sprite art, tilesets, and asset pipelines |
-| `assistant` | Personal assistant — scheduling, planning, and organization |
 
 ## Skills
 
