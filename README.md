@@ -20,7 +20,6 @@ A personal Claude Code plugin containing persona-based agents and shared skills 
 | Memory Update | `/agora:memory-update` | Capture a specific learning or decision mid-conversation |
 | Code Review | `/agora:code-review` | Multi-dimension code review |
 | Spec Writer | `/agora:spec-writer` | Draft PRDs, technical specs, ADRs, design specs, and asset specs |
-| Daily Plan | `/agora:daily-plan` | Generate a structured daily plan |
 
 ## Installation
 
