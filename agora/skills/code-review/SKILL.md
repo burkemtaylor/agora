@@ -1,3 +1,9 @@
+---
+name: code-review
+description: "Review code for correctness, clarity, security, and maintainability"
+argument-hint: "[optional: file path, diff, or description of what to review]"
+---
+
 # Code Review
 
 Review code for correctness, clarity, security, and maintainability.

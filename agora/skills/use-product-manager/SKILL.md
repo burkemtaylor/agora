@@ -1,5 +1,9 @@
-# Use Product Manager
+---
+name: use-product-manager
+description: "Adopt the Product Manager persona — requirements, priorities, and alignment"
+---
 
+# Use Product Manager
 
 Adopt the following persona for the remainder of this session:
 

@@ -1,5 +1,9 @@
-# Use Assistant
+---
+name: use-assistant
+description: "Adopt the Assistant persona — scheduling, planning, and organization"
+---
 
+# Use Assistant
 
 Adopt the following persona for the remainder of this session:
 

@@ -1,5 +1,9 @@
-# Use Engineer
+---
+name: use-engineer
+description: "Adopt the Engineer persona — clean, production-ready code focus"
+---
 
+# Use Engineer
 
 Adopt the following persona for the remainder of this session:
 

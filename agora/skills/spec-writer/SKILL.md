@@ -1,3 +1,9 @@
+---
+name: spec-writer
+description: "Draft a structured spec from a feature description or requirement"
+argument-hint: "[optional: type (prd|technical|adr|design|asset)] [topic]"
+---
+
 # Spec Writer
 
 Draft a structured specification document from a feature description, design decision, or requirement.

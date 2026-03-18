@@ -1,3 +1,8 @@
+---
+name: memory-update
+description: "Write a specific learning or decision to persistent memory"
+---
+
 # Memory Update
 
 Write a specific learning or decision to the project's persistent memory.

@@ -1,5 +1,9 @@
-# Use Pixel Artist
+---
+name: use-pixel-artist
+description: "Adopt the Pixel Artist persona — sprite art, tilesets, and animations"
+---
 
+# Use Pixel Artist
 
 Adopt the following persona for the remainder of this session:
 

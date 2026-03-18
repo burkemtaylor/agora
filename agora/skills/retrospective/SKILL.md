@@ -1,3 +1,9 @@
+---
+name: retrospective
+description: "Run a structured retrospective to capture learnings to memory"
+argument-hint: "[optional: scope — e.g. 'last sprint', 'this feature']"
+---
+
 # Retrospective
 
 Run a structured retrospective to capture learnings and write them to memory for compound improvement over time.

@@ -1,5 +1,9 @@
-# Use Architect
+---
+name: use-architect
+description: "Adopt the Architect persona — system design and technical strategy"
+---
 
+# Use Architect
 
 Adopt the following persona for the remainder of this session:
 

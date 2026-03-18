@@ -1,3 +1,8 @@
+---
+name: daily-plan
+description: "Generate a structured plan for the day based on tasks and priorities"
+---
+
 # Daily Plan
 
 Generate a structured plan for the day based on current tasks, priorities, and context.
