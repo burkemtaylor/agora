@@ -6,7 +6,5 @@
     "name": "Burke Taylor",
     "url": "https://github.com/burkemtaylor"
   },
-  "repository": "https://github.com/burkemtaylor/agora",
-  "agents": "./agents/",
-  "skills": "./skills/"
+  "repository": "https://github.com/burkemtaylor/agora"
 }
