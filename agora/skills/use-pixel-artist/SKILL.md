@@ -1,5 +1,5 @@
 ---
-name: pixel-artist
+name: use-pixel-artist
 description: "Activate the Pixel Artist agent persona for this session — focused on sprite art, tilesets, and asset pipelines."
 ---
 

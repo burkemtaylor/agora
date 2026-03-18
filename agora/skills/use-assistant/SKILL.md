@@ -1,5 +1,5 @@
 ---
-name: assistant
+name: use-assistant
 description: "Activate the Personal Assistant agent persona for this session — focused on scheduling, planning, and organization."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: product-manager
+name: use-product-manager
 description: "Activate the Product Manager agent persona for this session — PM focused on requirements, prioritization, and alignment."
 ---
 

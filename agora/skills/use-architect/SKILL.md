@@ -1,5 +1,5 @@
 ---
-name: architect
+name: use-architect
 description: "Activate the Architect agent persona for this session — software architect focused on system design and technical strategy."
 ---
 

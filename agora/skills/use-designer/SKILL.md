@@ -1,5 +1,5 @@
 ---
-name: designer
+name: use-designer
 description: "Activate the Designer agent persona for this session — product designer focused on UX, visual craft, and design systems."
 ---
 
