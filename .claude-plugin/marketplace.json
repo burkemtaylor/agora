@@ -1,0 +1,23 @@
+{
+  "name": "agora",
+  "owner": {
+    "name": "Burke Taylor",
+    "url": "https://github.com/burkemtaylor"
+  },
+  "metadata": {
+    "description": "Persona-based agents and shared skills for personal and professional use",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "agora",
+      "description": "Persona-based agents and shared skills for personal and professional use",
+      "author": {
+        "name": "Burke Taylor",
+        "url": "https://github.com/burkemtaylor"
+      },
+      "homepage": "https://github.com/burkemtaylor/agora",
+      "source": "."
+    }
+  ]
+}
