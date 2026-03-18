@@ -17,7 +17,7 @@
         "url": "https://github.com/burkemtaylor"
       },
       "homepage": "https://github.com/burkemtaylor/agora",
-      "source": "."
+      "source": "./agora"
     }
   ]
 }
