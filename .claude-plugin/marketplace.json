@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Persona-based agents and shared skills for personal and professional use",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "plugins": [
     {
